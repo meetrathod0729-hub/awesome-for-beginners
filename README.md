@@ -383,7 +383,7 @@ If you would like to be guided through how to contribute to a repository on GitH
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) _(label: good first issue)_ <br> Monorepo for all the tooling which enables ESLint to support TypeScript.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) _(label: good first issue)_ <br> A code editor redefined and optimized for building and debugging modern web and cloud applications.
 - [Vite](https://github.com/vitejs/vite) _(label: good first issue)_ <br> Next generation frontend tooling. It's fast! Alternative to Create React App
-
+- [MySamplePythonScripts](https://github.com/meetrathod0729-hub/MySamplePythonScripts) - A collection of simple Python programs for beginners (good first issue)
 
 ## Contribute
 
